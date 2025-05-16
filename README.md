@@ -50,7 +50,7 @@ tic-tac-toe/
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/tic-tac-toe.git
+[git clone https://github.com/yourusername/tic-tac-toe.git](https://github.com/Sathvik1404/TIC-TAC-TOE.git)
 cd tic-tac-toe
 2. Open in Browser
 Just open the index.html file in your browser:
